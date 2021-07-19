@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XMLStats": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\XML"
+    }
+  }
+}
