@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <Description>by José M. Alarcón - www.campusmvp.es</Description>
+    <ApplicationIcon>xmlstats.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
